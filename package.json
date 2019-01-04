@@ -1,0 +1,14 @@
+{
+  "name": "mango",
+  "version": "1.0.0",
+  "description": "Mango Bot for Competitive Africa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheoPatatoe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
